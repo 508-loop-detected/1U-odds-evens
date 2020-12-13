@@ -1,0 +1,22 @@
+ID,Name,Designator,Footprint,Quantity,Source,Location
+1,100nF,"C1,C6,C5,C4,C3,C2",805,6,,BACK
+2,100pF,C21,805,1,,BACK
+3,CD4017BCM,"U1,U3,U4,U2",SOIC16N,4,3.9mm width,BACK
+4,MC7805BDTRKG,U8,TO-252-2_L6.6-W6.1-P4.57-LS9.9-TL-CW,1,,BACK
+5,BC847,"Q1,Q9",SOT-23-3_L2.9-W1.3-P1.90-LS2.4-TR,2,https://www.mouser.com/Search/Refine?Keyword=863-BC847BLT1G,BACK
+6,CD40106BM,"U6,U5",SOIC-14_L8.7-W3.9-P1.27-LS6.0-BL,2,3.9mm width,BACK
+7,Ferrite,F2,Ferrite Bead on Lead,1,?,BACK
+8,IDC Box 2.54mm 2X5P,P1,EURO_PWR_HEADER_LOCK,1,IDC Box 2.54mm 2X5P,BACK
+9,100k,"R57,R55",R0805,2,,BACK
+10,10k,"R56,R54",R0805,2,,BACK
+11,1N5819,D6,DO-41,1,,BACK
+12,4-pin 2mm female header,"H2,H1,H3",HDR-TH_4P-P2.00-V-M,3,https://www.taydaelectronics.com/connectors-sockets/pin-headers/4-pin-2-00-mm-single-row-female-pin-header.html,BACK
+13,10uF,C15,CAP-D5.0XF2.0,1,,BACK
+1,BC847,"Q2,Q1,Q5,Q3,Q4",SOT-23-3_L2.9-W1.3-P1.90-LS2.4-TR,5,https://www.mouser.com/Search/Refine?Keyword=863-BC847BLT1G,FRONT
+2,THONKICONNNEW,"OUT3,OUT3-1,CLK3,OUT9-1,OUT9,OUT5-1,OUT7-1,OUT7,OUT5",THONKICONN-TIGHT,9,,FRONT
+3,680K,"R5,R7,R9,R1,R2",R805,5,,FRONT
+4,6.8K,"R8,R4,R10,R3,R6",R805,5,,FRONT
+5,LED-3MM-RED,"LED5,LED4,LED3,LED1,LED2",LED3MM-STOVEPIPE,5,https://www.mouser.com/Search/Refine?Keyword=696-SSLLX20483HDTD,FRONT
+6,4-pin 2mm male header,"H2,H1,H3",HDR-TH_4P-P2.00-V-M,3,https://www.taydaelectronics.com/connectors-sockets/pin-headers/40-pin-2-00-mm-single-row-pin-header-strip.html,FRONT
+,Standoffs,,1/4” 4-40,4,https://www.mouser.com/ProductDetail/761-2053-440-AL-7,BOTH
+,Screws,,3/16” 4-40,8,,BOTH
